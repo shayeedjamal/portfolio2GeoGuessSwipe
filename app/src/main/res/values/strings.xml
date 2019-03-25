@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoGuessSwipe</string>
+    <string name="can_you_guess_if_these_streetview_images_are_in_europe_swipe_the_image_left_for_europe_click_on_an_image_to_show_the_name_of_the_country">Can you guess if these streetview images are in Europe? Swipe the image left for Europe.Click on an image to show the name of the Country.</string>
+</resources>
